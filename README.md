@@ -22,3 +22,6 @@ https://colab.research.google.com/drive/1fCx6H7z-L4WpW2TBkKKcTh2-GBkRJFAA
 
 Question 3:
 https://colab.research.google.com/drive/108uCDwul6lQ0o3XlZGOStP3LQ5p_4rJG
+
+##### Homework 3 link:
+https://colab.research.google.com/drive/18H2k6vCQoFmp9cCoKcBNbkP4FJQxDfa6
