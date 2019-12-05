@@ -25,3 +25,6 @@ https://colab.research.google.com/drive/108uCDwul6lQ0o3XlZGOStP3LQ5p_4rJG
 
 ##### Homework 3 link:
 https://colab.research.google.com/drive/18H2k6vCQoFmp9cCoKcBNbkP4FJQxDfa6
+
+##### Homework 4 link(paper):
+https://colab.research.google.com/drive/1oVnugWs2oW-zcaPOdwsnB7MMM3D_fkDw
